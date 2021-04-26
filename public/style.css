@@ -79,3 +79,7 @@ input[type="button"] {
     margin-top: 0;
   }
 }
+
+#colored {
+  font-weight: bold;
+}
